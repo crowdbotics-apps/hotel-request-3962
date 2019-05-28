@@ -1,0 +1,3 @@
+rootProject.name = 'hotel_request_3962'
+
+include ':app'
